@@ -16,8 +16,8 @@ body{
     border: 1px solid rgba(0, 0, 0, 0.452);
     margin-top: 20px;
 }
-.grid p,
-.grid a
+div p,
+div a
 {
     display:flex;
     justify-content: center;
