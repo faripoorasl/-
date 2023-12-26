@@ -1,0 +1,73 @@
+body {
+  margin: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.codeBox-container {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  justify-content: center;
+}
+
+.codeBox-container div {
+  display: flex;
+  align-items: center;
+}
+
+.codeBox {
+  width: 50%;
+  height: 100px;
+  padding: 10px;
+  margin: 10px;
+  resize: none;
+  box-sizing: border-box;
+}
+
+.copyButton,
+.convertButton {
+  padding: 10px;
+  cursor: pointer;
+  background-color: #4caf50;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  margin: 10px;
+}
+
+.copied {
+  background-color: #4caf50;
+  color: white;
+}
+
+/* QR Code section styles */
+.qrcodeSection {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.qrcodeContainer {
+  
+  margin: 20px;
+  text-align: center;
+  
+}
+
+.qrcode {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 246px;
+  height: 246px;
+  border: 5px solid #4caf50;
+  border-radius: 10px;
+  color: #4caf50;
+}
+
+.qrcodeLabel {
+  color: #4caf50;
+  font-weight: bold;
+}
