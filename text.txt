@@ -1,0 +1,1 @@
+trojan://GvyIi2kKCr@pm.pixel-park.cfd:443?security=tls&sni=lion.pixel-park.cfd&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&path=%2Fshop#WS%20cdn%20tr%20tls
