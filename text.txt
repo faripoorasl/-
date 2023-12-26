@@ -1,1 +1,6 @@
 trojan://GvyIi2kKCr@pm.pixel-park.cfd:443?security=tls&sni=lion.pixel-park.cfd&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&path=%2Fshop#WS%20cdn%20tr%20tls
+
+
+vless://194c6dd0-5acf-4ca7-aa33-375dd063fb17@show.pixel-park.cfd:8443?encryption=none&security=tls&sni=on.pixel-park.cfd&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&path=%2Fshow#WS%20cdn%20vl%20tls
+
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIldTIGNkbiB2bSB0bHMiLA0KICAiYWRkIjogIm5pbmVlci5waXhlbC1wYXJrLmNmZCIsDQogICJwb3J0IjogIjIwOTYiLA0KICAiaWQiOiAiMmM0MmEwZDctMmZiNy00MTQ1LTkzOGUtZjk4ZjhmMDQyYTQzIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIvbmluZSIsDQogICJ0bHMiOiAidGxzIiwNCiAgInNuaSI6ICJsaW9uLnBpeGVsLXBhcmsuY2ZkIiwNCiAgImFscG4iOiAiaDIsaHR0cC8xLjEiLA0KICAiZnAiOiAiY2hyb21lIg0KfQ==
